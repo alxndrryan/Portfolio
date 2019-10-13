@@ -1,0 +1,29 @@
+body {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    color: #777777;
+    background-image:url(../images/stardust-img.png)
+}
+
+.h1 {
+    font-family: "Georgia", Times, "Times New Roman", serif;
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+p {
+    line-height: 2;
+}
+
+.navbar {
+    background-color: #ffffff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    height: 75px;
+    border-color: #cccccc;
+    border-width: 0 0 2px 0;
+    border-style: outset;
+}
+
