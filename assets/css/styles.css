@@ -36,3 +36,20 @@ p {
     border-style: inset;
     border-width: 1px; */
 
+p {
+    line-height: 2;
+}
+
+
+.footer {
+    background-color: #666666;
+    text-align: center;
+    border-top: 8px solid #4aaaa5;
+    padding-top: 24px;
+}
+    
+.copyright {
+    color: #777777;
+    margin-bottom: 0 auto;
+    font-size: .75em;
+}
