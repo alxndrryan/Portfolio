@@ -34,6 +34,33 @@ p {
     border-style: inset;
     border-width: 1px; */
 
+.header {
+    padding: 0;
+}
+
+.nav {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    border-style: inset;
+    border-width: 1px;
+    padding: 13px;
+    border-left: none;
+    border-top: none;
+
+}
+
+.navbar {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    border-style: inset;
+    border-width: 1px;
+    padding: 8px;
+    padding-bottom: 10px;
+    border-right: none;
+    border-top: none;
+
+}
+
 body {
     font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
     color: #777777;
@@ -46,6 +73,11 @@ h1, .h1 {
 
 p {
     line-height: 2;
+}
+
+a {
+    color: #777777;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif; 
 }
 
 .container {
