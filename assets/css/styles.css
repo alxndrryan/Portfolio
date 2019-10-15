@@ -86,6 +86,19 @@ a {
     border-style: inset;
     border-width: 1px;
     margin: 40px auto;
+    width: 680px;
+}
+
+.empty {
+    background-image:url(../images/stardust-img.png)
+}
+
+.profile-pic {
+    float: left;
+}
+
+.about-me {
+    width: 640px;
 }
 
 
