@@ -12,18 +12,34 @@
   </head>
   <body>
       <div class="row d-block d-sm-none">
-      <nav class="navbar">
+      <nav class="navbar mobile-navbar">
         <div class="col">
-          <span class="h1">Alexander</span>
+          <span class="h1 mobile-h1">Alexander</span>
         </div>
-      </div>
+      </nav>
+      <div class="col header d-block d-sm-none">
+          <ul class="nav justify-content-center">
+                <li class="nav-item">
+                  <a class="nav-link" href="index.html">About</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="portfolio.html">Portfolio</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link mobile-nav" href="contact.html">Contact</a>
+                </li>
+              </ul>
+            </div>
+
+
       </div>
     <div class="row">
     <div class="col-sm-6 header d-none d-sm-block">
-      <nav class="navbar">
+      <nav class="navbar navbar-main">
         <span class="h1 large">Alexander</span>
+      </nav>
       </div>
-      <div class="col-sm-6 header">
+      <div class="col-sm-6 header d-none d-sm-block">
         <ul class="nav justify-content-end">
               <li class="nav-item">
                 <a class="nav-link" href="index.html">About</a>
@@ -36,7 +52,7 @@
               </li>
             </ul>
           </div>
-      </nav>
+      
     </div>
     
     <div class="container position-absolute">

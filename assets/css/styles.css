@@ -34,6 +34,27 @@ p {
     border-style: inset;
     border-width: 1px; */
 
+.mobile-navbar {
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 0px;
+    border: none;
+    border-width: 0;
+}
+
+.mobile-h1 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding-bottom: 12px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 12px;
+}
+
+.mobile-nav {
+    border: none;
+}
+
 .header {
     padding: 0;
 }
@@ -50,7 +71,7 @@ p {
 
 }
 
-.navbar {
+.navbar-main {
     background-color: #ffffff;
     border-color: #dddddd;
     border-style: inset;
