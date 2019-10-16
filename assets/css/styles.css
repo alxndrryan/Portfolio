@@ -70,6 +70,11 @@ body {
     background-image:url(../images/stardust-img.png)
 }
 
+.mobile {
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
 h1, .h1 {
     font-family: "Georgia", Times, "Times New Roman", serif;
 }
@@ -78,7 +83,7 @@ h1 {
     margin-left: 20px;
 }
 
-.h1 {
+.large {
     padding-top: 12px;
     padding-bottom: 0px;
     margin-bottom: 0px;
