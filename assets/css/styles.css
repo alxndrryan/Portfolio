@@ -40,14 +40,13 @@ p {
     padding-right: 0px;
     border: none;
     border-width: 0;
+    background-color: #4aaaa5;
 }
 
 .mobile-h1 {
     background-color: #4aaaa5;
     color: #ffffff;
     padding-bottom: 12px;
-    padding-left: 200px;
-    padding-right: 200px;
     padding-top: 12px;
 }
 
