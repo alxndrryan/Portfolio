@@ -156,6 +156,11 @@ display: block;
     margin-left: 60px;
 }
 
+.button {
+    margin-bottom: 20px;
+    background-color: #4aaaa5;
+}
+
 
 .footer {
     background-color: #666666;
