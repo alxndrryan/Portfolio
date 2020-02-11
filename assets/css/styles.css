@@ -176,3 +176,7 @@ display: block;
     margin-bottom: 0 auto;
     font-size: .75em;
 }
+
+.projects  {
+    border: none;
+}
