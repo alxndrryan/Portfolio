@@ -103,6 +103,10 @@ a {
     padding-bottom: 0px;
 }
 
+.a-border {
+    border-right: none
+}
+
 .nav-link {
     padding-top: 0px;
     padding-bottom: 0px;
